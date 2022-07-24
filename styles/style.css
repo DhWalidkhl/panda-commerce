@@ -1,3 +1,6 @@
+*{
+    scroll-behavior: smooth;
+}
 .slider-bg{
     background: #fceae8;
 }
@@ -9,4 +12,8 @@
     border-radius: 8px;
     padding: 9px 25px;
 
+}
+
+.contacts{
+    background: #fceae8;
 }
